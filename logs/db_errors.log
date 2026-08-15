@@ -1,0 +1,30 @@
+[2026-08-15 09:56:45] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:56:54] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:36] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:36] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:39] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:39] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:39] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 09:57:40] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 10:01:55] [ERROR] Database readiness check failed {"error":"Undefined constant PDO::SQLITE_ATTR_OPEN_FLAGS","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":95}
+[2026-08-15 10:05:16] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:05:16] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:05:42] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:05:42] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:06:07] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:06:07] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:06:07] [ERROR] Failed to create admin user during setup {"username":"irtija_talha","error":"Database connection failed: could not find driver"}
+[2026-08-15 10:07:41] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:07:41] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:08:02] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:08:02] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:08:02] [ERROR] Failed to create admin user during setup {"username":"irtija_talha","error":"Database connection failed: could not find driver","code":0}
+[2026-08-15 10:08:14] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:08:14] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:08:14] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:08:14] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:08:28] [ERROR] Database readiness check failed {"error":"Database connection failed: could not find driver","file":"\/home\/archeart\/Downloads\/portfolio 2\/Rebuild-main\/admin\/db.php","line":118}
+[2026-08-15 10:08:28] [ERROR] Failed to check if admin user exists {"error":"Database connection failed: could not find driver"}
+[2026-08-15 10:08:28] [ERROR] Failed to create admin user during setup {"username":"irtija_talha","error":"Database connection failed: could not find driver","code":0}
+[2026-08-15 10:14:01] [INFO] Admin login successful {"username":"irtija_talha","ip":"::1"}
+[2026-08-15 17:33:45] [INFO] Admin login successful {"username":"irtija_talha","ip":"::1"}
